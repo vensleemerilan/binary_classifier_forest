@@ -1,0 +1,32 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+
+# --- Environnement (uv / venv) ---
+.venv/
+node_modules/
+
+# --- Données Lourdes (Remote Sensing) ---
+# On ignore les images car elles sont trop lourdes pour GitHub
+*.tif
+*.tiff
+*.zarr/
+
+# --- Notebooks ---
+.ipynb_checkpoints
