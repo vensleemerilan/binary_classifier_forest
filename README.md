@@ -1,7 +1,3 @@
-Here is the complete, professional **README.md** tailored to your hybrid workflow. It now includes the JavaScript badge and explicitly mentions the **Google Earth Engine** phase.
-
----
-
 # Satellite Imagery Binary Classifier: Forest Detection (NDVI)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
