@@ -30,3 +30,7 @@ node_modules/
 
 # --- Notebooks ---
 .ipynb_checkpoints
+
+# Ignore auxiliary GIS files
+*.aux.xml
+*.ovr
